@@ -6,12 +6,12 @@ require 'reddit_news/version'
 Gem::Specification.new do |spec|
   spec.name          = "reddit_news"
   spec.version       = RedditNews::VERSION
-  spec.authors       = ["TODO: Write your name"]
+  spec.authors       = ["Robert Carrier"]
   spec.email         = ["robmcarrier@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = "Reddit news"
+  spec.description   = "Get the top 10 links in reddit news and top comment"
+
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
