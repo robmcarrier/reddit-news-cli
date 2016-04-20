@@ -1,0 +1,5 @@
+class RedditNews::TopComment
+
+
+
+end
